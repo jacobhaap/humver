@@ -17,7 +17,7 @@ await build({
 		version: Deno.args[1],
 		description: "Semantic Human Versioning.",
 		license: "MIT",
-		homepage: "https://github.com/jacobhaap/humver/ts",
+		homepage: "https://github.com/jacobhaap/humver/tree/main/ts",
 		repository: {
 			type: "git",
 			url: "git+https://gitlab.com/jacobhaap/humver.git"
